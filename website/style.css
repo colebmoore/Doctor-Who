@@ -33,7 +33,7 @@ a {
 .tab2 {
 	background-color: #999;
 	width: 25px;
-	border: medium outset #CCC;
+	border: medium outset #999;
 	color: #FFF;
 	text-transform: uppercase;
 	font-family: "Arial Black", Gadget, sans-serif;
@@ -41,32 +41,18 @@ a {
 .tab3 {
 	background-color: #999;
 	width: 25px;
-	border-top-width: medium;
-	border-right-width: medium;
-	border-bottom-width: medium;
-	border-left-width: medium;
-	border-top-style: outset;
-	border-right-style: outset;
-	border-bottom-style: outset;
-	border-left-style: outset;
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
 	color: #FFF;
+	border: medium outset #999;
 }
 .tab4 {
 	background-color: #999;
 	width: 25px;
-	border-top-width: medium;
-	border-right-width: medium;
-	border-bottom-width: medium;
-	border-left-width: medium;
-	border-top-style: outset;
-	border-right-style: outset;
-	border-bottom-style: outset;
-	border-left-style: outset;
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
 	color: #FFF;
+	border: medium outset #999;
 }
 .submenu {
 	background-color: #999;
