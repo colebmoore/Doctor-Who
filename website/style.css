@@ -17,7 +17,7 @@ body {
 	margin-left: 0px;
 }
 .tabs {
-	background-color: #999;
+	background-color: #666;
 	width: 25px;
 	text-transform: uppercase;
 	border: medium outset #999;
@@ -31,7 +31,7 @@ a {
 	color: #FFF;
 }
 .tab2 {
-	background-color: #CCC;
+	background-color: #999;
 	width: 25px;
 	border: medium outset #CCC;
 	color: #FFF;
@@ -39,7 +39,7 @@ a {
 	font-family: "Arial Black", Gadget, sans-serif;
 }
 .tab3 {
-	background-color: #CCC;
+	background-color: #999;
 	width: 25px;
 	border-top-width: medium;
 	border-right-width: medium;
@@ -54,7 +54,7 @@ a {
 	color: #FFF;
 }
 .tab4 {
-	background-color: #CCC;
+	background-color: #999;
 	width: 25px;
 	border-top-width: medium;
 	border-right-width: medium;

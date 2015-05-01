@@ -60,9 +60,9 @@
         <li><a href="../the-companions/nyssa.html">Nyssa</a></li>
       </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="homepage" -->
-    <h2>Doctor Who</h2>
-    <p><a href="../history-of-the-show.html">History of the Show</a></p>
-    <p><a href="../index.html">What is Doctor Who?</a></p>
+    <h2 align="center">Doctor Who</h2>
+    <p align="center"><a href="../history-of-the-show.html">History of the Show</a></p>
+    <p align="center"><a href="../index.html">What is Doctor Who?</a></p>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains Menu']" -->
     <ul>
       <li><a href="../the-villains/index.html">The Villains</a></li>
