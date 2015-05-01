@@ -1,5 +1,8 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 2.5em;
+	color: #333;
 }
 .insertimage {
 	float: left;
@@ -10,4 +13,32 @@ body {
 	margin-right: 50px;
 	margin-bottom: 25px;
 	margin-left: 0px;
+}
+.tabs {
+	background-color: #CFF;
+	width: 25px;
+}
+.tab2 {
+	background-color: #CCF;
+	width: 25px;
+}
+.tab3 {
+	background-color: #CFC;
+	width: 25px;
+}
+.tab4 {
+	background-color: #FC9;
+	width: 25px;
+}
+.submenu {
+	background-color: #FF9;
+	color: #333;
+	font-size: 16px;
+	line-height: 2.5em;
+	vertical-align: top;
+}
+.body {
+	background-color: #9CC;
+	padding-left: 50px;
+	vertical-align: top;
 }
