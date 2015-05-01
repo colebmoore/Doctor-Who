@@ -4,7 +4,7 @@ body {
 	line-height: 2.5em;
 	color: #333;
 	background-color: #CCC;
-	left: 150px;
+	left: 0px;
 }
 .insertimage {
 	float: left;
@@ -75,7 +75,7 @@ a {
 	padding-top: 0px;
 	padding-right: 250px;
 	padding-bottom: 250px;
-	padding-left: 250px;
+	padding-left: 150px;
 	background-image: url(images/Space-Picture-Desktop.jpg);
 }
 .body {
@@ -83,4 +83,5 @@ a {
 	padding-left: 50px;
 	vertical-align: top;
 	border: thick ridge #666;
+	left: 150px;
 }
