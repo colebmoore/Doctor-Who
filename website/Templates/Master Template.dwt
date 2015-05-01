@@ -11,6 +11,7 @@
 <!-- TemplateParam name="The Companions" type="boolean" value="false" -->
 <!-- TemplateParam name="The Villains Menu" type="boolean" value="false" -->
 <link href="../style.css" rel="stylesheet" type="text/css">
+<!-- TemplateParam name="homepage" type="boolean" value="false" -->
 </head>
 
 <body>
@@ -58,6 +59,10 @@
         <li><a href="../the-companions/adric.html">Adric</a></li>
         <li><a href="../the-companions/nyssa.html">Nyssa</a></li>
       </ul>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="homepage" -->
+    <h2>Doctor Who</h2>
+    <p><a href="../history-of-the-show.html">History of the Show</a></p>
+    <p><a href="../index.html">What is Doctor Who?</a></p>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains Menu']" -->
     <ul>
       <li><a href="../the-villains/index.html">The Villains</a></li>
