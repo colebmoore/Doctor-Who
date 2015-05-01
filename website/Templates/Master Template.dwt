@@ -58,6 +58,7 @@
         <li><a href="../the-companions/jo-grant.html">Jo Grant</a></li>
         <li><a href="../the-companions/adric.html">Adric</a></li>
         <li><a href="../the-companions/nyssa.html">Nyssa</a></li>
+        <li><a href="../the-companions/amy-pond.html">Amy pond</a></li>
       </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="homepage" -->
     <h2 align="center">Doctor Who</h2>
@@ -75,6 +76,7 @@
       <li><a href="../the-villains/de-flores.html">De Flores</a></li>
       <li><a href="../the-villains/dream-lord.html">Dream Lord</a></li>
       <li><a href="../the-villains/eldrad.html">Eldrad</a></li>
+      <li><a href="../the-villains/john-lumic.html">John lumic</a></li>
     </ul>
     <!-- TemplateEndIf --></td>
     <td class="body"><!-- TemplateBeginEditable name="Content" -->[Content Goes Here]<!-- TemplateEndEditable --></td>
