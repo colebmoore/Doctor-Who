@@ -33,7 +33,7 @@ a {
 .tab2 {
 	background-color: #999;
 	width: 25px;
-	border: medium outset #999;
+	border: medium outset #CCC;
 	color: #FFF;
 	text-transform: uppercase;
 	font-family: "Arial Black", Gadget, sans-serif;
@@ -44,7 +44,7 @@ a {
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
 	color: #FFF;
-	border: medium outset #999;
+	border: medium outset #CCC;
 }
 .tab4 {
 	background-color: #999;
@@ -52,7 +52,7 @@ a {
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
 	color: #FFF;
-	border: medium outset #999;
+	border: medium outset #CCC;
 }
 .submenu {
 	background-color: #999;
