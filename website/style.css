@@ -4,6 +4,7 @@ body {
 	line-height: 2.5em;
 	color: #333;
 	background-color: #CCC;
+	left: 150px;
 }
 .insertimage {
 	float: left;
@@ -69,6 +70,8 @@ body {
 	vertical-align: top;
 	width: 250px;
 	border: thick ridge #666;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-transform: uppercase;
 }
 .background {
 	background-color: #000;
